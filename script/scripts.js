@@ -7,7 +7,7 @@ const week = 7;
 let pet = "cat";
 let home = "house";
 
-console.log(week, pet, home);
+console.log(week, pet, home); //test meeee
 
 //Ask the user what their fav color is and store it. 
 // let answer = prompt("Hey Kit, focus on studying more coding silly")
